@@ -6,13 +6,13 @@
                     <path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/>
                 </svg> 
                 <blockquote>
-                    <p class="text-2xl font-medium text-gray-900 dark:text-white">"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application."</p>
+                    <p class="text-1xl font-medium text-gray-900 dark:text-white">"We understand that navigating the world of passive income can be overwhelming. That’s why we’ve curated a comprehensive collection of resources, from in-depth articles and step-by-step guides to expert-led webinars and interactive courses. Our content is tailored to all experience levels, ensuring that both beginners and seasoned investors can benefit from our insights"</p>
                 </blockquote>
                 <figcaption class="flex items-center justify-center mt-6 space-x-3">
-                    <img class="w-6 h-6 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="profile picture">
+                    <img class="w-8 h-8 rounded-full" src="./img/basil.jpg" alt="profile picture">
                     <div class="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
-                        <div class="pr-3 font-medium text-gray-900 dark:text-white">Micheal Gough</div>
-                        <div class="pl-3 text-sm font-light text-gray-500 dark:text-gray-400">CEO at Google</div>
+                        <div class="pr-3 font-medium text-gray-900 dark:text-white">Basil Jackson</div>
+                        <div class="pl-3 text-sm font-light text-gray-500 dark:text-gray-400">CEO Techscavangers</div>
                     </div>
                 </figcaption>
             </figure>

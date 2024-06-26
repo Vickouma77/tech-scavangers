@@ -59,7 +59,7 @@
                             <a href="#" class="hover:underline ">Email</a>
                         </li>
                         <li>
-                            <a href="#" class="hover:underline">256-40400</a>
+                            <a href="#" class="hover:underline">+254742370805</a>
                         </li>
                     </ul>
                 </div>
